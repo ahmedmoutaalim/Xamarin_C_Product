@@ -1,0 +1,16 @@
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\bin\Debug\netstandard2.0\ProductCrud.deps.json
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\bin\Debug\netstandard2.0\ProductCrud.dll
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\bin\Debug\netstandard2.0\ref\ProductCrud.dll
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\bin\Debug\netstandard2.0\ProductCrud.pdb
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\ProductCrud.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\ProductCrud.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\ProductCrud.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\ProductCrud.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\ProductCrud.dll
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\ref\ProductCrud.dll
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\ProductCrud.pdb
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\ShowProductPage.xaml.g.cs
+C:\Users\Youcode\Desktop\ProductCrud\ProductCrud\ProductCrud\obj\Debug\netstandard2.0\AddProduct.xaml.g.cs
